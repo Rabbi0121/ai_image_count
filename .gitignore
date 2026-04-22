@@ -1,0 +1,17 @@
+# macOS / IDE
+.DS_Store
+.idea/
+
+# Data folders
+/digits/
+/cnn/.digits_refs/
+/cnn/.mnist/
+
+# Training artifacts
+/cnn/.checkpoints/
+/cnn/predictions.csv
+/cnn/result.json
+
+# Python cache
+__pycache__/
+*.py[cod]
